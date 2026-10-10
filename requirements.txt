@@ -1,0 +1,8 @@
+streamlit
+folium
+streamlit-folium
+pyproj
+pandas
+osmnx>=1.6
+geopandas
+shapely
