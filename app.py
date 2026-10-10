@@ -44,7 +44,7 @@ show_water = st.sidebar.checkbox("Afișează hidrografie (ape)", value=True)
 m = folium.Map(
     location=[LAT_CENTRU, LON_CENTRU],
     zoom_start=14,
-    tiles="CartoDB positron",
+    tiles="OpenStreetMap",
 )
 
 # Strat satelit Esri
